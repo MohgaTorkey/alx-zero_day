@@ -1,1 +1,1 @@
-# alx-zero_day
+Starting to code today, So cool
